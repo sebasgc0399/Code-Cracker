@@ -74,7 +74,7 @@ Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## Autor
 
-Sebastián Gómez
+Sebastián Gutierrez
 
 ---
 
