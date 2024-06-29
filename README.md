@@ -70,7 +70,7 @@ Este proyecto utiliza Firebase para la autenticación y almacenamiento en tiempo
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE.md) para más detalles.
 
 ## Autor
 
