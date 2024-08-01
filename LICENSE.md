@@ -13,7 +13,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ## Commercial Use Clause
 
 - **Reporting:** Users who commercialize the Software must provide a report of earnings and pay the royalty fee on a quarterly basis. Failure to comply with this condition will result in termination of the license.
-- **Contact Information:** Payments and reports should be sent to [your email or other contact information].
+- **Contact Information:** Payments and reports should be sent to sebasgc0399@gmail.com.
 
 ## Non-Commercial Use
 
